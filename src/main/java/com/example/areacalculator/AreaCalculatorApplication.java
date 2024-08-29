@@ -8,7 +8,7 @@ public class AreaCalculatorApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(AreaCalculatorApplication.class, args);
-		// test1
+		// test2
 	}
 
 }
